@@ -1,2 +1,1 @@
-# livr-swift-validator
-OLX Brasil bugbounty POC by @nvk0x
+# OLX Brasil bugbounty POC by @nvk0x
